@@ -11,6 +11,7 @@ gh_icon.png
 gh_v2b.png
 gh_v2b2.png
 gh_v212.png
+gh_v22.png
 linux1g_icon.png
 linux2g_icon.png
 linux3g_icon.png
@@ -38,6 +39,7 @@ frontend.js
 goldhen2b.bin
 goldhen2b2.bin
 goldhen_212_900.bin
+goldhen_2.2_900.bin
 index.html
 int64.js
 jquery-3.6.0.js
